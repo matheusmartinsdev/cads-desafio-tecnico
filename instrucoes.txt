@@ -1,0 +1,23 @@
+Configuração do Repositório:
+	Crie um repositório no github
+	Permita o acesso de leitura para mizael.pardinho@cadsconsultoria.com.br
+Tarefa:
+	Crie um programa PHP que atenda aos seguintes requisitos:
+	Leia um arquivo CSV fornecido (data.csv).
+	Calcule a média das colunas numéricas e exiba o resultado.
+	Crie uma função que receba um número e retorne "par" se for par e "ímpar" se for ímpar.
+	Utilize a função para determinar se a média calculada é par ou ímpar e exiba o resultado.
+Requisitos Técnicos:
+	Use PHP.
+	Evite o uso de bibliotecas externas.
+	Forneça comentários no código quando necessário.
+Entrega:
+	Após concluir a tarefa, faça um commit e envie as alterações para o repositório.
+	Certifique-se de incluir um arquivo README.md explicando como executar o programa.
+	Avaliação:
+	O código será avaliado com base na eficiência, clareza, e correção.
+	A capacidade de manipular arquivos CSV, calcular médias e usar funções básicas do PHP será considerada.
+Observações:
+	Você terá 2 horas para finalizar a prova
+	Não hesite em entrar em contato se precisar de esclarecimentos adicionais.
+	Lembre-se de que a simplicidade e a clareza são tão importantes quanto a funcionalidade.
